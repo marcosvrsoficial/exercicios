@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    background-color: bisque;
+}
+h1{
+    color: black;
+}
+h1#principal{
+    text-align: center;
+    font-size: 70px;
+}
+h2{
+    color: darkgray;
+}
+p{
+    color: deeppink;
+    text-align: justify;
+}

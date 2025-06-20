@@ -1,0 +1,2 @@
+# exercicios
+area de estudos
